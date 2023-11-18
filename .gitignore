@@ -1,2 +1,11 @@
-.env 
-.env-production
+#local env files
+.env*
+
+#all files of css extension
+*.css
+
+#ignore all .js files
+*.js
+
+#misc
+/ex
